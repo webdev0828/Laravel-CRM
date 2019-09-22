@@ -1,0 +1,522 @@
+# Webalizer V2.23-05 Incremental Data - 01/19/2019 11:22:45
+2019 1 19 11 22 45
+4488 2812 50 47 48 31 79472115 1632 195 0 0 0
+2 1 801 1 19
+4 4 4232 4 2 2 0 0
+2 2 2103 1 1 1 0 0
+708 526 21887916 13 159 15 0 0
+1495 887 26545964 8 368 22 0 0
+456 301 6243202 9 209 16 0 0
+398 219 5624667 7 148 13 0 0
+491 286 5595782 11 278 25 0 0
+289 118 1112346 13 185 20 0 0
+48 15 384180 6 28 11 0 0
+47 16 376135 5 37 7 0 0
+135 83 1818952 10 54 12 0 0
+5 3 10987 5 4 4 0 0
+9 3 27940 5 5 4 0 0
+4 1 12478 3 3 3 0 0
+74 63 463243 9 42 19 0 0
+292 257 9028287 9 101 14 0 0
+29 28 322003 2 6 5 0 0
+0 0 0 0 0 0 0 0
+2 0 11698 2 2 2 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+185 81 2331931 50 0 0
+1 0 3571 1 0 0
+14 13 178315 2 0 0
+4 3 15951 2 0 0
+5 2 19370 3 0 0
+34 30 1333003 7 0 0
+36 15 334927 11 0 0
+102 80 2833364 33 0 0
+123 63 2344277 41 0 0
+212 81 2507968 60 0 0
+106 66 1678668 50 0 0
+256 132 3819287 78 0 0
+271 214 5563461 94 0 0
+268 204 6160262 118 0 0
+134 81 603986 94 0 0
+272 102 1826234 97 0 0
+226 125 2171287 160 0 0
+297 235 6637636 130 0 0
+204 148 4550928 65 0 0
+275 249 11292875 45 0 0
+854 449 15304975 159 0 0
+268 182 3612873 152 0 0
+179 151 2663786 88 0 0
+162 106 1683180 92 0 0
+6
+0
+0
+2812
+0
+0
+0
+0
+0
+0
+0
+0
+255
+0
+657
+0
+0
+0
+0
+0
+0
+543
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+215
+0
+0
+0
+0
+0
+# -urls- 
+/images/user/avatar-3.jpg
+1 72 0 413447 0 0 0 0
+/plugins/data-tables/js/datatables.min.js
+0 79 0 46083918 0 0 0 0
+/plugins/todo/js/todo.js
+0 53 0 59670 0 0 0 0
+/.well-known/acme-challenge/V4ZL7UbSm9w9WwkkrtKu0M3Saoc6bQlJYvhMLvSxzfo
+0 1 0 316 0 0 0 0
+/register
+0 29 0 55335 0 2 0 0
+/fonts/material/css/materialdesignicons.min.css
+0 73 0 907735 0 0 0 0
+/images/favicon.ico
+0 169 0 241452 0 0 0 0
+/images/todo/icon.png
+1 44 0 6044031 0 0 0 0
+/logs
+0 26 0 112368 2 3 0 0
+/plugins/animation/css/animate.min.css
+0 68 0 245919 0 0 0 0
+/action/todo
+0 155 0 818756 9 10 0 0
+/.well-known/acme-challenge/w2XpcDggOWNzw4rzidqypZe35UxXx6IdIUGp8z9Irew
+0 1 0 316 0 0 0 0
+/favicon.ico
+0 102 0 34655 0 0 0 0
+/.well-known/acme-challenge/3DLpb-rHxSrlClFq5aZED4egBdg37BSsQcwHNN5D5mI
+0 1 0 316 0 0 0 0
+/images/user/avatar-2.jpg
+1 72 0 421419 0 0 0 0
+/plugins/bootstrap/js/bootstrap.min.js
+0 68 0 810900 0 0 0 0
+/dashboard
+0 106 0 670060 14 5 0 0
+/client/search
+0 14 0 82673 1 2 0 0
+/css/style.css
+0 145 0 2449931 0 0 0 0
+/plugins/data-tables/css/datatables.min.css
+0 73 0 151341 0 0 0 0
+/login
+0 149 0 291636 21 27 0 0
+/.well-known/acme-challenge/ZCYx3g62rnSXyP5HBPakeUJte8c65uPd66lYHkAtwBU
+0 1 0 316 0 0 0 0
+/plugins/bootstrap/css/bootstrap.min.css
+0 72 0 1290540 0 0 0 0
+/client/show/4
+0 32 0 180393 1 2 0 0
+/fonts/feather/css/feather.css
+0 71 0 153724 0 0 0 0
+/fonts/feather/fonts/feather.woff
+0 95 0 1505557 0 0 0 0
+/fonts/fontawesome/css/fontawesome-all.min.css
+0 70 0 536503 0 0 0 0
+/plugins/modal-window-effects/css/md-modal.css
+0 53 0 121374 0 0 0 0
+/plugins/bootstrap-tagsinput-latest/css/bootstrap-tagsinput.css
+0 73 0 41719 0 0 0 0
+/dashboard/clients
+0 235 0 1552185 17 19 0 0
+/fonts/material/fonts/materialdesignicons-webfont.woff
+0 1 0 74460 0 0 0 0
+/
+0 188 0 422691 104 54 0 0
+/images/user/avatar-1.jpg
+1 72 0 408363 0 0 0 0
+/user/list
+0 68 0 358415 6 6 0 0
+/js/pcoded.js
+0 73 0 181599 0 0 0 0
+/fonts/datta/fonts/pct.woff
+0 21 0 34418 0 0 0 0
+/client/show/3
+0 39 0 193161 3 4 0 0
+/profile/setting
+0 12 0 27635 0 0 0 0
+/js/vendor-all.min.js
+0 68 0 2502643 0 0 0 0
+/fonts/material/fonts/materialdesignicons-webfont.woff2
+0 70 0 6092241 0 0 0 0
+/robots.txt
+0 2 0 8814 0 0 0 0
+/js/pcoded.min.js
+0 56 0 139594 0 0 0 0
+/client/show/1
+0 81 0 506023 5 10 0 0
+/plugins/jquery-scrollbar/css/perfect-scrollbar.css
+0 71 0 61848 0 0 0 0
+/js/pages/tbl-datatable-custom.js
+0 302 0 151270 0 0 0 0
+/plugins/bootstrap-tagsinput-latest/js/bootstrap-tagsinput.min.js
+0 73 0 152496 0 0 0 0
+/fonts/datta/datta-icon.css
+0 70 0 48140 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+89.204.153.156
+0 1 0 1258 1 1546861565 0 0
+/login
+148.251.90.237
+0 1 0 5849 1 1547858960 0 0
+-
+31.14.73.47
+0 1 0 3588 1 1546967622 0 0
+/
+159.65.47.88
+0 4 0 8425 1 1546966679 0 0
+/
+66.102.9.46
+0 1 1 1879 1 1546544759 0 0
+/login
+37.201.225.151
+0 269 157 2668193 9 1546787312 0 0
+/login
+103.48.80.184
+0 1 0 4203 1 1547480350 0 0
+/
+37.187.132.5
+0 1 0 4210 0 0 0 0
+-
+89.204.154.162
+0 4 0 8200 1 1546951726 0 0
+/
+52.53.201.78
+0 2 0 6952 2 1547434226 0 0
+/
+89.204.155.101
+0 4 0 8264 1 1546984720 0 0
+/
+66.249.93.29
+0 12 12 8168 3 1547119674 0 0
+/
+66.249.81.142
+0 141 27 1075780 8 1546903785 0 0
+/user/list
+13.57.233.99
+0 2 0 6952 2 1547534994 0 0
+/
+37.201.224.114
+0 87 32 251903 6 1547254421 0 0
+/
+37.201.226.186
+0 48 46 1736141 2 1547665951 0 0
+-
+45.77.48.114
+0 2 0 4100 1 1546962027 0 0
+/
+188.43.224.141
+0 1749 1100 42984567 36 1547617261 0 0
+/dashboard/clients
+52.114.77.26
+0 3 2 5604 1 1547216318 0 0
+/
+66.133.109.36
+0 4 4 1264 0 0 0 0
+-
+66.249.81.144
+0 139 28 1270129 8 1546903831 0 0
+/logs
+5.135.143.224
+0 1 0 4203 1 1547525303 0 0
+-
+66.102.9.21
+0 5 5 55239 0 0 0 0
+-
+2.247.240.13
+0 16 16 182283 2 1547665769 0 0
+/
+64.233.173.135
+0 17 17 104779 3 1547645730 0 0
+/client/show/4
+193.254.191.233
+0 211 103 898293 13 1547632547 0 0
+/
+64.233.173.136
+0 16 16 1151725 3 1547645748 0 0
+/
+64.233.173.137
+0 11 11 129421 4 1547645734 0 0
+/dashboard/clients
+67.205.29.157
+0 3 0 537 1 1546966639 0 0
+/
+66.249.81.140
+0 154 31 717646 8 1546903814 0 0
+/user/list
+66.102.9.22
+0 5 5 67076 1 1546544759 0 0
+/login
+89.204.154.108
+0 2 0 7142 2 1547295380 0 0
+/
+37.201.227.56
+0 1336 1017 21066570 38 1547244486 0 0
+/
+38.79.214.43
+0 1 0 4164 1 1546900868 0 0
+/
+176.31.191.186
+0 1 0 5694 1 1547752196 0 0
+-
+104.219.248.110
+0 1 0 238 1 1547571369 0 0
+/
+208.97.138.194
+0 1 0 1723 1 1547624630 0 0
+-
+66.249.93.28
+0 10 10 9067 4 1547296298 0 0
+/
+89.204.154.125
+0 4 0 7324 2 1546903814 0 0
+-
+66.249.93.27
+0 9 9 10272 5 1547211006 0 0
+/
+45.40.143.13
+0 1 0 5849 1 1547896965 0 0
+-
+211.57.200.67
+0 2 0 8406 1 1547357917 0 0
+-
+110.164.85.14
+0 193 158 4895933 10 1547745857 0 0
+/register
+141.8.141.129
+0 4 2 9598 2 1547508012 0 0
+/
+159.65.47.197
+0 1 0 253 1 1546966669 0 0
+/
+66.102.9.144
+0 1 1 1459 0 0 0 0
+-
+146.185.140.74
+0 1 0 4227 1 1547248692 0 0
+-
+87.155.155.236
+0 1 0 3588 1 1546993619 0 0
+/
+66.102.9.18
+0 2 2 45371 0 0 0 0
+-
+203.129.113.142
+0 2 0 8406 1 1547352711 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+148.251.90.237
+0 1 0 5849 1 1547858960 0 0
+-
+45.40.143.13
+0 1 0 5849 1 1547896965 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://wundercare.de/action/todo
+1 5
+http://wundercare.de/fonts/datta/datta-icon.css
+1 1
+http://crm.mastermedi-1.vautronserver.de/css/style.css
+1 15
+wundercare.de
+1 12
+http://wundercare.de/logs
+1 1
+https://wundercare.de/client/show/4
+1 3
+https://wundercare.de/login
+1 47
+http://crm.mastermedi-1.vautronserver.de/logs
+1 34
+https://wundercare.de/register
+1 7
+http://www.google.com/search
+0 1
+https://wundercare.de/fonts/datta/datta-icon.css
+1 2
+http://crm.mastermedi-1.vautronserver.de/user/list
+1 97
+android-app://com.google.android.googlequicksearchbox
+0 7
+https://wundercare.de/
+1 8
+http://crm.mastermedi-1.vautronserver.de/
+1 127
+- (Direct Request)
+0 919
+https://wundercare.de/css/style.css
+1 9
+http://crm.mastermedi-1.vautronserver.de/fonts/feather/css/feather.css
+1 86
+https://wundercare.de/dashboard/clients
+1 34
+http://crm.mastermedi-1.vautronserver.de/fonts/material/css/materialdesignicons.min.css
+1 66
+http://crm.mastermedi-1.vautronserver.de/fonts/datta/datta-icon.css
+1 18
+http://wundercare.de/dashboard/clients
+1 40
+http://crm.mastermedi-1.vautronserver.de/client/show/1
+1 227
+http://crm.mastermedi-1.vautronserver.de/register
+1 28
+https://wundercare.de/user/list
+1 6
+https://wundercare.de/fonts/feather/css/feather.css
+1 5
+http://wundercare.de/user/list
+1 8
+http://crm.mastermedi-1.vautronserver.de/profile/setting
+1 14
+http://wundercare.de/fonts/material/css/materialdesignicons.min.css
+1 3
+http://crm.mastermedi-1.vautronserver.de/logout
+1 1
+http://crm.mastermedi-1.vautronserver.de/action/todo
+1 528
+http://crm.mastermedi-1.vautronserver.de/dashboard/clients
+1 696
+https://wundercare.de/fonts/material/css/materialdesignicons.min.css
+1 2
+http://crm.mastermedi-1.vautronserver.de/dashboard
+1 483
+http://wundercare.de/fonts/feather/css/feather.css
+1 4
+http://wundercare.de/login
+1 50
+http://crm.mastermedi-1.vautronserver.de/client/search
+1 33
+http://wundercare.de/action/todo
+1 3
+http://crm.mastermedi-1.vautronserver.de/client/show/4
+1 57
+http://crm.mastermedi-1.vautronserver.de/home
+1 4
+https://wundercare.de/logs
+1 5
+http://crm.mastermedi-1.vautronserver.de/client/show/3
+1 93
+http://www.wundercare.de/
+1 2
+https://wundercare.de/profile/setting
+1 3
+android-app://com.google.android.googlequicksearchbox/https/www.google.com
+0 27
+http://crm.mastermedi-1.vautronserver.de/login
+1 656
+http://wundercare.de/
+1 10
+http://wundercare.de/register
+1 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+0 499
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview) Chrome/41.0.2272.118 Safari/537.36
+0 12
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 4
+WhereGoes? Redirect Tracer/1.0
+0 1
+Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-A320FL Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/8.2 C
+0 18
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+0 20
+Mozilla/5.1 (Windows NT 6.0; WOW64) AppleWebKit/533.36 (KHTML, like Gecko) Chrome/46.0.2754.75 Safari/533.36
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+0 15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+0 584
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+0 1333
+Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+0 512
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0
+0 28
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.28 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 7.1.1; XT1562) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 OPR/57.0.
+0 19
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+0 14
+Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/8.2 Ch
+0 34
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.75 Safari/537.36
+0 10
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 33
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+0 46
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 85
+Mozilla/5.0 (X11; Linux x86_64; rv:64.0) Gecko/20100101 Firefox/64.0
+0 38
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:64.0) Gecko/20100101 Firefox/64.0
+0 48
+Mozilla/5.0 (Windows NT 6.1; WOW64) SkypeUriPreview Preview/0.5
+0 3
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:64.0) Gecko/20100101 Firefox/64.0
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+0 1102
+Mozilla/5.0 (Linux; Android 7.0; SM-G925W8 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Sa
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/72.0.3617.0 Safari/537.36
+0 1
+curl/7.47.0
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
